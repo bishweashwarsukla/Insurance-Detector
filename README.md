@@ -1,2 +1,2 @@
 # Insurance-Detector
-You can check if a person has a valid insurance or not. It can be very useful when a patient is not in a state to say whether he/she has insurance or not or who are relative.
+You can check if a person has a valid insurance or not. It can be very useful when a patient is not in a state to say whether he/she has insurance or not or who are relative. Sometimes what happens, if hospital management not able to detect from where patient will pay medical fees in that case they won't treat them and if a person is not in that condtion then there will be alot of problem and person won't get treatment
